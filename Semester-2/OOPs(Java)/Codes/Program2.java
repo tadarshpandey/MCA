@@ -13,6 +13,6 @@ public class Program2 {
         //System.out.println(a+-+b);
         System.out.println("Substraction of two numbers:" + (a - b));
         sc.close();
-
     }
 }
+
